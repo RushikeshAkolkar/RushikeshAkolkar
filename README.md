@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RushikeshAkolkar
 - 👀 I’m interested in Back Development
 - 🌱 I’m currently learning Front end
-- 💞️ I’m looking to collaborate on Internship or Full time job
+- 💞️ I’m looking to collaborate on Full time job
 - 📫 How to reach me 8888440539
 
 <!---
